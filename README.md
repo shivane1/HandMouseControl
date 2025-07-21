@@ -25,6 +25,7 @@ Built with **OpenCV**, **MediaPipe**, and **PyAutoGUI**, this project tracks you
 
 Install dependencies using:
 
-```bash
 pip install opencv-python mediapipe pyautogui
+
+
 <img width="1919" height="1030" alt="Screenshot 2025-07-22 021848" src="https://github.com/user-attachments/assets/355bbd67-42fe-4b5b-ae45-c1caab970a75" />
